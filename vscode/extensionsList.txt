@@ -1,0 +1,11 @@
+- formulahendry.auto-rename-tag
+- catppuccin.catppuccin-vsc
+- naumovs.color-highlight
+- dsznajder.es7-react-js-snippets
+- dbaeumer.vscode-eslint
+- kisstkondoros.vscode-gutter-preview
+- ritwickdey.liveserver
+- esbenp.prettier-vscode
+- qwtel.sqlite-viewer
+- simonsiefke.svg-preview
+- vscode-icons-team.vscode-icons
